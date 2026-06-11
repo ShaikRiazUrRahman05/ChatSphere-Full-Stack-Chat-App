@@ -2,18 +2,18 @@
 
 A full-stack real-time chat application built with the MERN stack, enabling secure and seamless one-to-one communication.
 
-## 🚀 Features
+##  Features
 
 * 🔐 Authentication & Authorization using JWT
 * 💬 Real-time messaging with Socket.io
 * 🟢 Online user status tracking
-* ⚡ Global state management with Zustand
-* 🎨 Modern and responsive UI with Tailwind CSS & DaisyUI
-* 🛡️ Client-side and server-side error handling
-* ☁️ Media upload and storage support 
-* 🚀 Production-ready deployment
+*  Global state management with Zustand
+*  Modern and responsive UI with Tailwind CSS & DaisyUI
+*  Client-side and server-side error handling
+*  Media upload and storage support 
+*  Production-ready deployment
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -72,7 +72,7 @@ npm run dev
 npm run dev
 ```
 
-## 🎯 Key Learnings
+##  Key Learnings
 
 * Implementing real-time communication using WebSockets
 * Managing authentication and protected routes with JWT
